@@ -2,8 +2,6 @@
 This script will open.par files and combine them into a single, multisheet excel file"""
 
 import pandas as pd
-from matplotlib import pyplot as plt
-import seaborn as sbn
 import glob
 import os
 import openpyxl
